@@ -1,0 +1,32 @@
+{
+  "name": "naveen-kumar-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website showcasing skills, projects, and experience as a Generative AI Developer",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "echo 'Deploy using GitHub Pages, Netlify, or Vercel'"
+  },
+  "keywords": [
+    "portfolio",
+    "web-development",
+    "generative-ai",
+    "python",
+    "frontend",
+    "responsive-design"
+  ],
+  "author": "Naveen Kumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[your-username]/portfolio.git"
+  },
+  "homepage": "https://[your-username].github.io/portfolio",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
